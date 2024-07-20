@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36392aca685c76f48ab88297c08b8e8a, type: 3}
   m_Name: ParabolicWeapon
   m_EditorClassIdentifier: 
-  weaponType: 1
+  weaponType: 0
   bullet: {fileID: 4843647326115758671, guid: d355a1d1b937d2942a3f0caa7ee0ea8d, type: 3}
   bulletSpeed: 15
   explosionForce: 0
